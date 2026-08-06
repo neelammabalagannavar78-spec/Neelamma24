@@ -1,8 +1,5 @@
 a=10
 b=30
 print(a+b)
-<<<<<<< HEAD
-print("WELCOME TO WORKSHOP")
-=======
+print("hello All")
 print("Welcome to Workshop")
->>>>>>> feature
